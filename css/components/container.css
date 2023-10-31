@@ -1,0 +1,27 @@
+.container {
+  width: 960px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  flex-direction: column;
+  gap: 44px;
+  text-align: center;
+}
+
+.container > h1 {
+    font-size: 2.4rem;
+    color: #fff;
+    margin-bottom: 44px;
+}
+
+.container p {
+  font-size: 1.5rem;
+  color: #B5B5B5;
+  margin-bottom: 44px;
+}
+
+.container h2 {
+  font-size: 2rem;
+  align-self: center;
+}
